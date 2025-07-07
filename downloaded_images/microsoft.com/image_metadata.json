@@ -1,0 +1,358 @@
+{
+  "website_url": "https://www.microsoft.com/sql-server",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "RE1Mu3b.png",
+      "original_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "c-image",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 108,
+        "height": 23,
+        "position": {
+          "x": 170,
+          "y": 14
+        },
+        "parentTag": "a",
+        "parentClass": "c-logo c-sgl-stk-uhfLogo",
+        "parentId": "uhfLogo"
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-1.3-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-1.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-occ279",
+        "alt": "A woman smiling in front of a large screen.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-2.2-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-2.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc7156",
+        "alt": "A man holding a tablet and stylus.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-2.1-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-2.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oce322",
+        "alt": "A man and woman looking at a laptop.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-2.3-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-2.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc5529",
+        "alt": "A man and woman looking at a tablet.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-3.1-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-3.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc9d1a",
+        "alt": "A man wearing glasses looking at a computer screen.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-1.2-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-1.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1283&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc092f",
+        "alt": "A man wearing glasses looking at a computer screen.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-1.1-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-1.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-ocfb72",
+        "alt": "",
+        "title": "",
+        "width": 792,
+        "height": 508.453125,
+        "position": {
+          "x": 824,
+          "y": 1901.875
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-3.2-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-3.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc6333",
+        "alt": "A man and woman sitting on a couch looking at a tablet.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-2.4-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-2.4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc747d",
+        "alt": "A man sitting at a desk using a laptop.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-4.1-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-4.1-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc8ad9",
+        "alt": "A woman wearing glasses and a scarf pointing at a computer screen.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-4.2-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-4.2-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc003f",
+        "alt": "A man and woman laughing while looking at a tablet.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-2.5-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-2.5-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc5051",
+        "alt": "A group of people sitting at a table",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-4.3-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-4.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-ocf050",
+        "alt": "A woman sitting on a window sill with a laptop.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-3.4-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-3.4-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-ocf0d5",
+        "alt": "A man sitting at a computer.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    },
+    {
+      "filename": "1054094-overview-3.3-800x513",
+      "original_url": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/1054094-overview-3.3-800x513?resMode=sharp2&op_usm=1.5,0.65,15,0&wid=2000&hei=1284&qlt=100&fit=constrain",
+      "element_info": {
+        "tagName": "img",
+        "className": " ",
+        "id": "image-oc212f",
+        "alt": "A man sitting at a desk using a laptop.",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ocr-img media__asset",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:34:06"
+    }
+  ]
+}

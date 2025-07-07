@@ -1,0 +1,282 @@
+{
+  "website_url": "https://aws.amazon.com/redshift",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "f8072a9d-168d-106a-f153-922bb2045ad8.e54f6f634e22c464a4ac88f8110c6e2504aaf5f9.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/f8072a9d-168d-106a-f153-922bb2045ad8.e54f6f634e22c464a4ac88f8110c6e2504aaf5f9.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 logo_module_landscape__4432ffb9",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 200,
+        "height": 64,
+        "position": {
+          "x": 432,
+          "y": 4813.96875
+        },
+        "parentTag": "div",
+        "parentClass": "logo_module_logo__4432ffb9",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "ab967f35-cccf-3905-0e1e-4d5f31316fd2.9fa5b922dcb85f336ca19e800502ee6191ee72d0.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/ab967f35-cccf-3905-0e1e-4d5f31316fd2.9fa5b922dcb85f336ca19e800502ee6191ee72d0.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 mediaCard_module_mediaBase__777909a8 multiMedia_module_mediaBase__39c6c58e",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 357.328125,
+        "height": 398.546875,
+        "position": {
+          "x": 360,
+          "y": 2769
+        },
+        "parentTag": "div",
+        "parentClass": "mediaCard_module_mediaCard__777909a8",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "cc704780-7880-320f-2730-a1055e876bb6.dfa6e7112f59a0589c041d78df872388202019ec.jpeg",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/cc704780-7880-320f-2730-a1055e876bb6.dfa6e7112f59a0589c041d78df872388202019ec.jpeg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 583.9375,
+        "height": 302.359375,
+        "position": {
+          "x": 976,
+          "y": 801
+        },
+        "parentTag": "picture",
+        "parentClass": "vjs-poster",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "e13c9bb2-9763-a694-a3c5-db1d6e57cce5.4a9abf8e6c8a06638c6e0ecdcffead44f39f76f0.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/managed-services/images/e13c9bb2-9763-a694-a3c5-db1d6e57cce5.4a9abf8e6c8a06638c6e0ecdcffead44f39f76f0.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 logo_module_square__4432ffb9",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 64,
+        "height": 64,
+        "position": {
+          "x": 432,
+          "y": 4833.96875
+        },
+        "parentTag": "div",
+        "parentClass": "logo_module_logo__4432ffb9",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "17377b3b-0e5e-6f6f-2ac6-5ee1a80ac383.49aceeef31ae72d6d1fc17c884649a42b31a87c4.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/17377b3b-0e5e-6f6f-2ac6-5ee1a80ac383.49aceeef31ae72d6d1fc17c884649a42b31a87c4.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 mediaCard_module_mediaBase__777909a8 multiMedia_module_mediaBase__39c6c58e",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 357.328125,
+        "height": 393.96875,
+        "position": {
+          "x": 781.328125,
+          "y": 2769
+        },
+        "parentTag": "div",
+        "parentClass": "mediaCard_module_mediaCard__777909a8",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "4ead9605-8976-3db2-588c-9702a95f10e0.6f1a838822c2f4cab49252405b3065e17061bf11.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/4ead9605-8976-3db2-588c-9702a95f10e0.6f1a838822c2f4cab49252405b3065e17061bf11.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 mediaCard_module_mediaBase__777909a8 multiMedia_module_mediaBase__39c6c58e",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 357.328125,
+        "height": 397.984375,
+        "position": {
+          "x": 1202.65625,
+          "y": 2769
+        },
+        "parentTag": "div",
+        "parentClass": "mediaCard_module_mediaCard__777909a8",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "73ea9d86-c043-477f-5aa8-7281f4073ca5.44233ab7fe3df67f01fcd8c89c329836cbb3b79f.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/73ea9d86-c043-477f-5aa8-7281f4073ca5.44233ab7fe3df67f01fcd8c89c329836cbb3b79f.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 logo_module_landscape__4432ffb9",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 200,
+        "height": 64,
+        "position": {
+          "x": 432,
+          "y": 4853.96875
+        },
+        "parentTag": "div",
+        "parentClass": "logo_module_logo__4432ffb9",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "0fd28a99-1223-262d-e58f-819c1ff1cbc6.21a3cb23674017cd6baa5cd7e68a26089242e943.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/0fd28a99-1223-262d-e58f-819c1ff1cbc6.21a3cb23674017cd6baa5cd7e68a26089242e943.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "image_module_image__0914b1c0 logo_module_landscape__4432ffb9",
+        "id": "",
+        "alt": "Missing alt text value",
+        "title": "",
+        "width": 200,
+        "height": 64,
+        "position": {
+          "x": 432,
+          "y": 4873.96875
+        },
+        "parentTag": "div",
+        "parentClass": "logo_module_logo__4432ffb9",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "9095873a-3285-8aef-6571-28b2bd4b3f60.6c94fb7cae719243b455ba43627ba1270292c898.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/9095873a-3285-8aef-6571-28b2bd4b3f60.6c94fb7cae719243b455ba43627ba1270292c898.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "backgroundImage_module_backgroundImage__3e8fb212 deluxeCard_module_cardBackgroundImage__79e1efad",
+        "id": "",
+        "width": 1200,
+        "height": 640,
+        "position": {
+          "x": 360,
+          "y": 4422.96875
+        },
+        "parentTag": "div",
+        "parentClass": "deluxeCard_module_backgroundImageContainer__79e1efad backgroundImage_module_backgroundImageContainer__3e8fb212",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "74f1784c-4e18-8551-dce2-d7e207c2994a.c311ff5c7b89b54355312b5bf03b8a49a8071ef7.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/74f1784c-4e18-8551-dce2-d7e207c2994a.c311ff5c7b89b54355312b5bf03b8a49a8071ef7.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "backgroundImage_module_backgroundImage__3e8fb212 deluxeCard_module_cardBackgroundImage__79e1efad",
+        "id": "",
+        "width": 1200,
+        "height": 640,
+        "position": {
+          "x": 360,
+          "y": 4442.96875
+        },
+        "parentTag": "div",
+        "parentClass": "deluxeCard_module_backgroundImageContainer__79e1efad backgroundImage_module_backgroundImageContainer__3e8fb212",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "customer_mcdonalds.80a0d3aa6c272b84c337313d634783111a370fcf.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/customer_mcdonalds.80a0d3aa6c272b84c337313d634783111a370fcf.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "backgroundImage_module_backgroundImage__3e8fb212 deluxeCard_module_cardBackgroundImage__79e1efad",
+        "id": "",
+        "width": 1200,
+        "height": 640,
+        "position": {
+          "x": 360,
+          "y": 4462.96875
+        },
+        "parentTag": "div",
+        "parentClass": "deluxeCard_module_backgroundImageContainer__79e1efad backgroundImage_module_backgroundImageContainer__3e8fb212",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "b201c394-1df8-236a-ff76-7d7f4cbf95c9.133bfb8953e28a8a4bd0b57767d9095c5246f0f3.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/b201c394-1df8-236a-ff76-7d7f4cbf95c9.133bfb8953e28a8a4bd0b57767d9095c5246f0f3.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "backgroundImage_module_backgroundImage__3e8fb212 deluxeCard_module_cardBackgroundImage__79e1efad",
+        "id": "",
+        "width": 1200,
+        "height": 640,
+        "position": {
+          "x": 360,
+          "y": 4482.96875
+        },
+        "parentTag": "div",
+        "parentClass": "deluxeCard_module_backgroundImageContainer__79e1efad backgroundImage_module_backgroundImageContainer__3e8fb212",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:32"
+    },
+    {
+      "filename": "5b4ce039-73fd-ef7c-ecd1-7b5c1da33725.5fa282ec4adeee35a2c3b0c0e9f9e3bc7f76a208.png",
+      "original_url": "https://d1.awsstatic.com/onedam/marketing-channels/website/aws/en_US/product-categories/analytics/approved/images/5b4ce039-73fd-ef7c-ecd1-7b5c1da33725.5fa282ec4adeee35a2c3b0c0e9f9e3bc7f76a208.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "backgroundImage_module_backgroundImage__3e8fb212 deluxeCard_module_cardBackgroundImage__79e1efad",
+        "id": "",
+        "width": 1200,
+        "height": 640,
+        "position": {
+          "x": 360,
+          "y": 4502.96875
+        },
+        "parentTag": "div",
+        "parentClass": "deluxeCard_module_backgroundImageContainer__79e1efad backgroundImage_module_backgroundImageContainer__3e8fb212",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:32"
+    }
+  ]
+}

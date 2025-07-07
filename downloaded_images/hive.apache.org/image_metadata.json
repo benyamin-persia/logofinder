@@ -1,0 +1,204 @@
+{
+  "website_url": "https://hive.apache.org",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "hive.svg",
+      "original_url": "https://hive.apache.org/images/hive.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 60,
+        "height": 35,
+        "position": {
+          "x": 61.25,
+          "y": 17
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "ker.jpeg",
+      "original_url": "https://hive.apache.org/images/ker.jpeg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 200,
+        "height": 150,
+        "position": {
+          "x": 971.25,
+          "y": 3579.46875
+        },
+        "parentTag": "div",
+        "parentClass": "col-md",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "atlas.png",
+      "original_url": "https://hive.apache.org/images/atlas.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 400,
+        "height": 100,
+        "position": {
+          "x": 1208.75,
+          "y": 3604.46875
+        },
+        "parentTag": "div",
+        "parentClass": "col-md",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "hiveAcid.svg",
+      "original_url": "https://hive.apache.org/images/hiveAcid.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 300,
+        "height": 300,
+        "position": {
+          "x": 311.25,
+          "y": 2464.6875
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "hiveIceberg.png",
+      "original_url": "https://hive.apache.org/images/hiveIceberg.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 500,
+        "height": 250,
+        "position": {
+          "x": 311.25,
+          "y": 3239.46875
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "ranger.png",
+      "original_url": "https://hive.apache.org/images/ranger.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 400,
+        "height": 100,
+        "position": {
+          "x": 971.25,
+          "y": 3729.46875
+        },
+        "parentTag": "div",
+        "parentClass": "col-md",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "llap.png",
+      "original_url": "https://hive.apache.org/images/llap.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 600,
+        "height": 350,
+        "position": {
+          "x": 311.25,
+          "y": 3919.46875
+        },
+        "parentTag": "div",
+        "parentClass": "col-md",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "asf_logo.png",
+      "original_url": "https://hive.apache.org/images/asf_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 270,
+        "height": 100,
+        "position": {
+          "x": 30,
+          "y": 5800.21875
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    },
+    {
+      "filename": "HMS.jpg",
+      "original_url": "https://hive.apache.org/images/HMS.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Apache Software Foundation",
+        "title": "",
+        "width": 600,
+        "height": 400,
+        "position": {
+          "x": 971.25,
+          "y": 1974.6875
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:26"
+    }
+  ]
+}

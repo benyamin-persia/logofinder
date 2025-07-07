@@ -1,0 +1,210 @@
+{
+  "website_url": "https://www.mysql.com",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "chat.jpg",
+      "original_url": "https://sc-oal-en.widget.custhelp.com/euf/assets/images/chat.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Helpful person waiting to chat with you",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "rn_SyndicatedChatAvatarDiv",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:43"
+    },
+    {
+      "filename": "orcl_logo.png",
+      "original_url": "https://sc-oal-en.widget.custhelp.com/euf/assets/images/orcl_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "rn_SyndicatedChatLogoImageDiv",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:43"
+    },
+    {
+      "filename": "b1280-grey-gradient-background.jpg",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/banners/b1280-grey-gradient-background.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "fp-banner hidden",
+        "id": "fp-banner1",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "",
+        "parentId": "banners"
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:47"
+    },
+    {
+      "filename": "b1280-mysql-global-forum.en.jpg",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/banners/b1280-mysql-global-forum.en.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "fp-banner-image",
+        "id": "fp-banner-image1",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "fp-banner hidden",
+        "parentId": "fp-banner1"
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:47"
+    },
+    {
+      "filename": "b1280-blue-gradient-background.jpg",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/banners/b1280-blue-gradient-background.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "fp-banner current",
+        "id": "fp-banner2",
+        "width": 1600,
+        "height": 330,
+        "position": {
+          "x": 160,
+          "y": 221.390625
+        },
+        "parentTag": "div",
+        "parentClass": "",
+        "parentId": "banners"
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:47"
+    },
+    {
+      "filename": "b1280-mysql-ee-generic2.en.jpg",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/banners/b1280-mysql-ee-generic2.en.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "fp-banner-image",
+        "id": "fp-banner-image2",
+        "width": 960,
+        "height": 330,
+        "position": {
+          "x": 480,
+          "y": 221.390625
+        },
+        "parentTag": "div",
+        "parentClass": "fp-banner current",
+        "parentId": "fp-banner2"
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:47"
+    },
+    {
+      "filename": "sprite.png",
+      "original_url": "https://sc-oal-en.widget.custhelp.com/rnt/rnw/yui_2.7/assets/skins/sam/sprite.png",
+      "element_info": {
+        "tagName": "span",
+        "className": "yui-button yui-button-button",
+        "id": "rn_DialogButton_rn_Dialog_0_0",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "div",
+        "parentClass": "ft",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:48"
+    },
+    {
+      "filename": "site-sprite1.png",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/site-sprite1.png",
+      "element_info": {
+        "tagName": "span",
+        "className": "fp-banner-dots-left",
+        "id": "",
+        "width": 15,
+        "height": 15,
+        "position": {
+          "x": 930,
+          "y": 538.390625
+        },
+        "parentTag": "div",
+        "parentClass": "fp-banner-dots-center",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:51"
+    },
+    {
+      "filename": "op-sprite1.png",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/op-sprite1.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "",
+        "id": "fp-product-icon-cloud",
+        "width": 75,
+        "height": 75,
+        "position": {
+          "x": 225,
+          "y": 631.390625
+        },
+        "parentTag": "div",
+        "parentClass": "fp-product-icon",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:51"
+    },
+    {
+      "filename": "logo-sprite-x2-v3.jpg",
+      "original_url": "https://labs.mysql.com/common/themes/sakila/logo-sprite-x2-v3.jpg",
+      "element_info": {
+        "tagName": "a",
+        "className": "fp-logo-youtube",
+        "id": "",
+        "width": 120,
+        "height": 80,
+        "position": {
+          "x": 369.53125,
+          "y": 1515.828125
+        },
+        "parentTag": "div",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:51"
+    }
+  ]
+}

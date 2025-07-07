@@ -1,0 +1,190 @@
+{
+  "website_url": "http://www.h2database.com",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "div-ls.png",
+      "original_url": "http://www.h2database.com/html/images/div-ls.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".ls",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "download-2.png",
+      "original_url": "http://www.h2database.com/html/images/download-2.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "Download this database",
+        "title": "",
+        "width": 22,
+        "height": 22,
+        "position": {
+          "x": 771.625,
+          "y": 267.953125
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "h2-logo-2.png",
+      "original_url": "http://www.h2database.com/html/images/h2-logo-2.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "H2 database logo",
+        "title": "",
+        "width": 136,
+        "height": 74,
+        "position": {
+          "x": 573,
+          "y": 13
+        },
+        "parentTag": "div",
+        "parentClass": "menu",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-ts.png",
+      "original_url": "http://www.h2database.com/html/images/div-ts.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".ts",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-ks.png",
+      "original_url": "http://www.h2database.com/html/images/div-ks.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".ks",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-le.png",
+      "original_url": "http://www.h2database.com/html/images/div-le.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".le",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-d.png",
+      "original_url": "http://www.h2database.com/html/images/div-d.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".d",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-te.png",
+      "original_url": "http://www.h2database.com/html/images/div-te.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".te",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    },
+    {
+      "filename": "div-ke.png",
+      "original_url": "http://www.h2database.com/html/images/div-ke.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".ke",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:11"
+    }
+  ]
+}

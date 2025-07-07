@@ -1,0 +1,110 @@
+{
+  "website_url": "https://www.postgresql.org",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "bugs.jpg",
+      "original_url": "https://www.postgresql.org/media/img/misc/bugs.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "col-lg-6 cta cta-2",
+        "id": "",
+        "width": 960,
+        "height": 325.125,
+        "position": {
+          "x": 960,
+          "y": 3675.78125
+        },
+        "parentTag": "div",
+        "parentClass": "row",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "banner.jpg",
+      "original_url": "https://www.postgresql.org/media/img/misc/banner.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "jumbotron jumbotron-fluid pg-jumbotron",
+        "id": "",
+        "width": 1920,
+        "height": 347.59375,
+        "position": {
+          "x": 0,
+          "y": 84.34375
+        },
+        "parentTag": "body",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "PostgreSQL_Badge1.svg",
+      "original_url": "https://www.postgresql.org/media/img/PostgreSQL_Badge1.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "community",
+        "id": "",
+        "alt": "PostgreSQL Community Event",
+        "title": "",
+        "width": 15.328125,
+        "height": 15.328125,
+        "position": {
+          "x": 425.25,
+          "y": 1531.78125
+        },
+        "parentTag": "li",
+        "parentClass": " ",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "training.jpg",
+      "original_url": "https://www.postgresql.org/media/img/misc/training.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "col-lg-6 cta cta-3",
+        "id": "",
+        "width": 960,
+        "height": 325.125,
+        "position": {
+          "x": 0,
+          "y": 1940.71875
+        },
+        "parentTag": "div",
+        "parentClass": "row",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:19"
+    },
+    {
+      "filename": "elephant.png",
+      "original_url": "https://www.postgresql.org/media/img/about/press/elephant.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "logo",
+        "id": "",
+        "alt": "PostgreSQL Elephant Logo",
+        "title": "",
+        "width": 31.015625,
+        "height": 32,
+        "position": {
+          "x": 31,
+          "y": 11.8125
+        },
+        "parentTag": "a",
+        "parentClass": "navbar-brand p-0",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:19"
+    }
+  ]
+}

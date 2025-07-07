@@ -1,0 +1,816 @@
+{
+  "website_url": "https://spark.apache.org",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "batch-sstreaming-data-icon.svg",
+      "original_url": "https://spark.apache.org/images/batch-sstreaming-data-icon.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "icon",
+        "id": "",
+        "alt": "Batch/streaming data",
+        "title": "",
+        "width": 75,
+        "height": 75,
+        "position": {
+          "x": 850,
+          "y": 651
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-lg-6 features",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "data-science-scale-icon.svg",
+      "original_url": "https://spark.apache.org/images/data-science-scale-icon.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "icon",
+        "id": "",
+        "alt": "Data science at scale",
+        "title": "",
+        "width": 75,
+        "height": 75,
+        "position": {
+          "x": 850,
+          "y": 923
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-lg-6 mt-5 mt-lg-0 features",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "spark-logo-rev.svg",
+      "original_url": "https://spark.apache.org/images/spark-logo-rev.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 141,
+        "height": 72,
+        "position": {
+          "x": 24,
+          "y": 5
+        },
+        "parentTag": "a",
+        "parentClass": "navbar-brand",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "sql-analytics-icon.svg",
+      "original_url": "https://spark.apache.org/images/sql-analytics-icon.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "icon",
+        "id": "",
+        "alt": "SQL analytics",
+        "title": "",
+        "width": 75,
+        "height": 75,
+        "position": {
+          "x": 1235,
+          "y": 651
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-lg-6 mt-5 mt-lg-0 ms-auto features",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "scikit-learn.png",
+      "original_url": "https://spark.apache.org/images/scikit-learn.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 367,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "tf_logo_social.png",
+      "original_url": "https://spark.apache.org/images/tf_logo_social.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 733.65625,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "pytorch.png",
+      "original_url": "https://spark.apache.org/images/pytorch.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 367,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "pandas.png",
+      "original_url": "https://spark.apache.org/images/pandas.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 550.328125,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "mlflow-logo.png",
+      "original_url": "https://spark.apache.org/images/mlflow-logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 550.328125,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "machine-learning-icon.svg",
+      "original_url": "https://spark.apache.org/images/machine-learning-icon.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "icon",
+        "id": "",
+        "alt": "Machine Learning",
+        "title": "",
+        "width": 75,
+        "height": 75,
+        "position": {
+          "x": 1235,
+          "y": 923
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-lg-6 mt-5 mt-lg-0 ms-auto features",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "r_logo.png",
+      "original_url": "https://spark.apache.org/images/r_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 733.65625,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "PowerBI-Logo-Square-Insight-Platforms.png",
+      "original_url": "https://spark.apache.org/images/PowerBI-Logo-Square-Insight-Platforms.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1210.328125,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "superset.png",
+      "original_url": "https://spark.apache.org/images/superset.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1027,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "numpy.png",
+      "original_url": "https://spark.apache.org/images/numpy.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 367,
+          "y": 2583.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "looker_logo.png",
+      "original_url": "https://spark.apache.org/images/looker_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1393.65625,
+          "y": 2403.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "redash.png",
+      "original_url": "https://spark.apache.org/images/redash.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1027,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "dbt.png",
+      "original_url": "https://spark.apache.org/images/dbt.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1393.65625,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "tableau-logo-tableau-software.png",
+      "original_url": "https://spark.apache.org/images/tableau-logo-tableau-software.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1210.328125,
+          "y": 2493.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "mongo.png",
+      "original_url": "https://spark.apache.org/images/mongo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 657,
+          "y": 2802.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "Elasticsearch.png",
+      "original_url": "https://spark.apache.org/images/Elasticsearch.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 437,
+          "y": 2802.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "kafka.png",
+      "original_url": "https://spark.apache.org/images/kafka.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 877,
+          "y": 2802.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "delta-lake-logo.png",
+      "original_url": "https://spark.apache.org/images/delta-lake-logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1097,
+          "y": 2802.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "kubernetes-horizontal-color.png",
+      "original_url": "https://spark.apache.org/images/kubernetes-horizontal-color.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1317,
+          "y": 2802.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "AirflowLogo.png",
+      "original_url": "https://spark.apache.org/images/AirflowLogo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 437,
+          "y": 2892.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "Apache_Parquet_logo.png",
+      "original_url": "https://spark.apache.org/images/Apache_Parquet_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 657,
+          "y": 2892.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "sqlserver.png",
+      "original_url": "https://spark.apache.org/images/sqlserver.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 877,
+          "y": 2892.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "1280px-Cassandra_logo.png",
+      "original_url": "https://spark.apache.org/images/1280px-Cassandra_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1097,
+          "y": 2892.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "Apache_Orc_logo.png",
+      "original_url": "https://spark.apache.org/images/Apache_Orc_logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 166,
+        "height": 90,
+        "position": {
+          "x": 1317,
+          "y": 2892.125
+        },
+        "parentTag": "div",
+        "parentClass": "col",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "AQE-compersion.png",
+      "original_url": "https://spark.apache.org/images/AQE-compersion.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 636,
+        "height": 304.078125,
+        "position": {
+          "x": 972,
+          "y": 3306.125
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-lg-6 order-1 order-lg-21 text-center ms-auto",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-mailing-list.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-mailing-list.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block m-auto",
+        "id": "",
+        "alt": "Mailing list",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 334,
+          "y": 3925.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-built-in-functions.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-built-in-functions.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block mx-auto",
+        "id": "",
+        "alt": "Source code",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 774,
+          "y": 3925.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-Delta-Table.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-Delta-Table.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block mx-auto",
+        "id": "",
+        "alt": "News and events",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 1214,
+          "y": 3925.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-Scheduled-Jobs.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-Scheduled-Jobs.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block mx-auto",
+        "id": "",
+        "alt": "Issue tracking",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 774,
+          "y": 4089.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-Collaborative.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-Collaborative.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block mx-auto",
+        "id": "",
+        "alt": "How to contribute",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 334,
+          "y": 4089.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "icon-orange-data-engineer-persona.svg",
+      "original_url": "https://spark.apache.org/images/icon-orange-data-engineer-persona.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "d-block d-xl-inline-block mx-auto",
+        "id": "",
+        "alt": "Committers",
+        "title": "",
+        "width": 96,
+        "height": 96,
+        "position": {
+          "x": 1214,
+          "y": 4089.203125
+        },
+        "parentTag": "div",
+        "parentClass": "card-body text-center text-xl-start",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "spark-start.svg",
+      "original_url": "https://spark.apache.org/images/spark-start.svg",
+      "element_info": {
+        "tagName": "div",
+        "className": "spark-star-bg",
+        "id": "",
+        "width": 907.5,
+        "height": 726,
+        "position": {
+          "x": -127.5,
+          "y": 537
+        },
+        "parentTag": "div",
+        "parentClass": "col-12 col-md-7 col-lg-5",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:18"
+    },
+    {
+      "filename": "spark-hero-thin-light.jpg",
+      "original_url": "https://spark.apache.org/images/spark-hero-thin-light.jpg",
+      "element_info": {
+        "tagName": "div",
+        "className": "bg",
+        "id": "",
+        "width": 1920,
+        "height": 475,
+        "position": {
+          "x": 691.2000122070312,
+          "y": 82
+        },
+        "parentTag": "section",
+        "parentClass": "hero-banner position-relative",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:18"
+    }
+  ]
+}

@@ -1,0 +1,2816 @@
+{
+  "website_url": "https://www.oracle.com/database",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "flg-us.svg",
+      "original_url": "https://www.oracle.com/asset/web/i/flg-us.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "flag-image",
+        "id": "",
+        "alt": "United States selected",
+        "title": "",
+        "width": 24,
+        "height": 24,
+        "position": {
+          "x": 1315.875,
+          "y": 18
+        },
+        "parentTag": "a",
+        "parentClass": "flag-focus",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "bgimg02-bgne-oracle-database.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/bgimg02-bgne-oracle-database.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "rh03img2",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 762.46875,
+        "height": 428.890625,
+        "position": {
+          "x": 1157.53125,
+          "y": 20
+        },
+        "parentTag": "div",
+        "parentClass": "rh03w1 cwidth",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "yt-video-thumbnail-trddsstomxc.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/yt-video-thumbnail-trddsstomxc.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 430.078125,
+        "height": 322.546875,
+        "position": {
+          "x": 1201.9140625,
+          "y": 79.5703125
+        },
+        "parentTag": "div",
+        "parentClass": "ytembed ytvideo ytthumbnail vd03init",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc32-database-2.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc32-database-2.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 552,
+        "height": 331.1875,
+        "position": {
+          "x": 312,
+          "y": 1449.78125
+        },
+        "parentTag": "div",
+        "parentClass": "rc32w4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc32-database-1.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc32-database-1.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 552,
+        "height": 331.1875,
+        "position": {
+          "x": 1056,
+          "y": 1027.515625
+        },
+        "parentTag": "div",
+        "parentClass": "rc32w4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc59alt-database-world-multicloud-ai-ed.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc59alt-database-world-multicloud-ai-ed.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "rc59img srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 204,
+        "height": 115,
+        "position": {
+          "x": 288,
+          "y": 640.875
+        },
+        "parentTag": "div",
+        "parentClass": "rc59w3",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "ocw-acx-rc59-204x115.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/ocw-acx-rc59-204x115.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "rc59img srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 204,
+        "height": 115,
+        "position": {
+          "x": 288,
+          "y": 2320
+        },
+        "parentTag": "li",
+        "parentClass": "rc59w3",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-aon-v3-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-aon-v3-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Aon logo",
+        "title": "",
+        "width": 115.796875,
+        "height": 35,
+        "position": {
+          "x": 398.09375,
+          "y": 2799.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc32-database-3.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc32-database-3.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 552,
+        "height": 331.1875,
+        "position": {
+          "x": 1056,
+          "y": 1843.265625
+        },
+        "parentTag": "div",
+        "parentClass": "rc32w4",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-att-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-att-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "AT&T logo",
+        "title": "",
+        "width": 193.390625,
+        "height": 55,
+        "position": {
+          "x": 695.296875,
+          "y": 2789.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc59alt-ocw24-gendev-loaiza.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc59alt-ocw24-gendev-loaiza.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "rc59img srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 204,
+        "height": 115,
+        "position": {
+          "x": 1008,
+          "y": 2320
+        },
+        "parentTag": "li",
+        "parentClass": "rc59w3",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-deutsche-bank-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-deutsche-bank-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Deutsche Bank logo",
+        "title": "",
+        "width": 193.390625,
+        "height": 55,
+        "position": {
+          "x": 1367.296875,
+          "y": 2789.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-carvana-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-carvana-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Carvana logo",
+        "title": "",
+        "width": 154.59375,
+        "height": 45,
+        "position": {
+          "x": 1050.703125,
+          "y": 2794.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-fedex-color.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-fedex-color.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Fedex logo",
+        "title": "",
+        "width": 115.796875,
+        "height": 35,
+        "position": {
+          "x": 398.09375,
+          "y": 2897.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-marriott-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-marriott-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Marriot logo",
+        "title": "",
+        "width": 154.59375,
+        "height": 45,
+        "position": {
+          "x": 1050.703125,
+          "y": 2892.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-munich-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-munich-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Munich RE logo",
+        "title": "",
+        "width": 193.390625,
+        "height": 55,
+        "position": {
+          "x": 1367.296875,
+          "y": 2887.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-nec-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-nec-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "NEC logo",
+        "title": "",
+        "width": 115.796875,
+        "height": 35,
+        "position": {
+          "x": 398.09375,
+          "y": 2998.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-stellantis-v2-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-stellantis-v2-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Stellantis logo",
+        "title": "",
+        "width": 216.671875,
+        "height": 61,
+        "position": {
+          "x": 683.65625,
+          "y": 2985.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-general-electric-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-general-electric-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgS",
+        "id": "",
+        "alt": "General Electric logo",
+        "title": "",
+        "width": 216.671875,
+        "height": 61,
+        "position": {
+          "x": 683.65625,
+          "y": 2884.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-vodafone-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-vodafone-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Vodafone logo",
+        "title": "",
+        "width": 193.390625,
+        "height": 55,
+        "position": {
+          "x": 1367.296875,
+          "y": 2988.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "customerlogo-thomson-reuters-clr.svg",
+      "original_url": "https://www.oracle.com/a/ocom/img/customerlogo-thomson-reuters-clr.svg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "Thomson Reuters logo",
+        "title": "",
+        "width": 216.671875,
+        "height": 61,
+        "position": {
+          "x": 1019.65625,
+          "y": 2985.953125
+        },
+        "parentTag": "div",
+        "parentClass": "rw-logo rw-logo-centered",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc30v0-documentation-sm-r1.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc30v0-documentation-sm-r1.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgH",
+        "id": "",
+        "alt": "documentation",
+        "title": "",
+        "width": 169.984375,
+        "height": 234.78125,
+        "position": {
+          "x": 644.828125,
+          "y": 4682.421875
+        },
+        "parentTag": "div",
+        "parentClass": "rc30w6",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc30v0-learning-sm-r1.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc30v0-learning-sm-r1.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgH",
+        "id": "",
+        "alt": "Cloud learning",
+        "title": "",
+        "width": 169.984375,
+        "height": 234.78125,
+        "position": {
+          "x": 644.828125,
+          "y": 4682.421875
+        },
+        "parentTag": "div",
+        "parentClass": "rc30w6",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc30v0-community-sm-r1.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc30v0-community-sm-r1.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgH",
+        "id": "",
+        "alt": "customer community",
+        "title": "",
+        "width": 169.984375,
+        "height": 234.78125,
+        "position": {
+          "x": 644.828125,
+          "y": 4682.421875
+        },
+        "parentTag": "div",
+        "parentClass": "rc30w6",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rc30v0-related-content-md.jpg",
+      "original_url": "https://www.oracle.com/a/ocom/img/rc30v0-related-content-md.jpg",
+      "element_info": {
+        "tagName": "img",
+        "className": "srcloaded imgW",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 331.40625,
+        "height": 245.96875,
+        "position": {
+          "x": 651,
+          "y": 4682.421875
+        },
+        "parentTag": "div",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "bgimg02-bgsw-blogs-01.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/bgimg02-bgsw-blogs-01.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "bgimg bgimgw2 bgimg-lhalf bgimg-bottom bgimg-hsize bgimg-lightest",
+        "id": "",
+        "width": 960,
+        "height": 497.875,
+        "position": {
+          "x": 0,
+          "y": 3701.03125
+        },
+        "parentTag": "div",
+        "parentClass": "col-item cpad cwidth rw-neutral-10bg bgimgw1",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "bgimg02-bgne-blogs-02.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/bgimg02-bgne-blogs-02.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "bgimg bgimgw2 bgimg-rhalf bgimg-hsize bgimg-lighter",
+        "id": "",
+        "width": 960,
+        "height": 497.875,
+        "position": {
+          "x": 960,
+          "y": 3701.03125
+        },
+        "parentTag": "div",
+        "parentClass": "col-item cpad cwidth rw-neutral-20bg bgimgw1",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "bgimg02-bgsw-50opacity-resources-01.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/bgimg02-bgsw-50opacity-resources-01.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "bgimg bgimgw2 bgimg-lhalf bgimg-bottom bgimg-hsize bgimg-lightest",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "section",
+        "parentClass": "rc30 rc30v0 rw-theme-10bg cpad o-bgimg bgimgw1",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "bgimg02-bgne-50opacity-resources-01.png",
+      "original_url": "https://www.oracle.com/a/ocom/img/bgimg02-bgne-50opacity-resources-01.png",
+      "element_info": {
+        "tagName": "div",
+        "className": "bgimg bgimgw2 bgimg-rhalf bgimg-hsize bgimg-lightest",
+        "id": "",
+        "width": 960,
+        "height": 715.046875,
+        "position": {
+          "x": 960,
+          "y": 4542.625
+        },
+        "parentTag": "section",
+        "parentClass": "rc30 rc30v0 rw-theme-10bg cpad o-bgimg bgimgw1",
+        "parentId": ""
+      },
+      "source_type": "background_image",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "w01-loader.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/w01-loader.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".slick-loading .slick-list",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern4w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern4w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-blue .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern8w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern8w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern4.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern4.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-blue .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern8.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern8.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern10.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern10.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-mauve .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern10w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern10w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-mauve .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern11w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern11w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-purple .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern11.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern11.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-purple .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern13.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern13.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-orange .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern16w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern16w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-fgreen .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern16.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern16.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-fgreen .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern1w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern1w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-pebble .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern1.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern1.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-pebble .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern13w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern13w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-orange .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern2.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern2.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-lilac .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern2w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern2w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-lilac .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern6.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern6.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-teal .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern7.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern7.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-slate .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern6w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern6w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-teal .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern24.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern24.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-sky .rw-pattern-theme1::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern24w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern24w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-sky .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern7w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern7w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rwtheme-slate .rw-pattern-theme1w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern3.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern3.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern3::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern5.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern5.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern5::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern9.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern9.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern9::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern3w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern3w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern3w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern5w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern5w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern5w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern9w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern9w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern9w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern12.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern12.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern12::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern12w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern12w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern12w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern14w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern14w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern14w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern14.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern14.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern14::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern15.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern15.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern15::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern15w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern15w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern15w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern17w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern17w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern17w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern18.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern18.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern18::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern17.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern17.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern17::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern18w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern18w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern18w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern19.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern19.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern19::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern21.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern21.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern21::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern20.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern20.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern20::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern19w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern19w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern19w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern21w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern21w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern21w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern20w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern20w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern20w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern22w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern22w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern22w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern22.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern22.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern22::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:52"
+    },
+    {
+      "filename": "rw-pattern23w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern23w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern23w::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-pattern23.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-pattern23.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-pattern23::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-neutral.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-neutral.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-pebble.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-pebble.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-pebble-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-pebble-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-fog.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-fog.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-fog-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-fog-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-lilac.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-lilac.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-lilac-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-lilac-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-ocean.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-ocean.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-ocean-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-ocean-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-slate.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-slate.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-slate-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-slate-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-rose.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-rose.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-rose-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-rose-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-teal.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-teal.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-teal-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-teal-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-sienna.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-sienna.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-sienna-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-sienna-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-plum.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-plum.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-plum-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-plum-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-sky.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-sky.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-sky-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-sky-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-strip-pine.gif",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-strip-pine.gif",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "body [class*=\"rw-pine-\"].rw-strip:not(.rw-strip-custom)::after, body [class*=\"rw-pine-\"] .rw-strip:not(.rw-strip-custom)::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic02.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic02.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic2-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic03.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic03.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic3-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic01.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic01.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic1-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic04.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic04.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic4-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic05.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic05.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic5-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic06.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic06.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic6-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic07.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic07.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic7-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic01w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic01w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic1w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic02w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic02w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic2w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic03w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic03w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic3w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic04w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic04w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic4w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural01.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural01.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural1-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic05w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic05w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic5w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic07w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic07w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic7w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-graphic06w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-graphic06w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-graphic6w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural02.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural02.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural2-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural03.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural03.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural3-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural05.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural05.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural5-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural06.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural06.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural6-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural07.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural07.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural7-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural04.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural04.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural4-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural10.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural10.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural10-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural08.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural08.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural8-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural09.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural09.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural9-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural01w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural01w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural1w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural02w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural02w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural2w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural03w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural03w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural3w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural06w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural06w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural6w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural04w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural04w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural4w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural05w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural05w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural5w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural07w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural07w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural7w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural09w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural09w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural9w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural10w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural10w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural10w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rw-natural08w.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rw-natural08w.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class*=\"bgpattern-natural8w-\"]::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "u28-navbg.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/u28-navbg.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".u28.u28v1 .u28nav.bgload::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel1.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel1.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rh02w1::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel2.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel2.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rh02p1 .rh02w2",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel1-2x.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel1-2x.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".retina .rh02w1::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel2-2x.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel2-2x.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".retina .rh02p1 .rh02w2",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel3.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel3.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rh02p3 .rh02w2",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh08-top-bg.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rh08-top-bg.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rh08 .bgimgw1 .bg-texture1",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh08-bottom-bg.png",
+      "original_url": "https://www.oracle.com/asset/web/i/rh08-bottom-bg.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rh08 .bgimgw1 .bg-texture2",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "loading-sprite-light.png",
+      "original_url": "https://www.oracle.com/asset/web/i/loading-sprite-light.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".w11w3.loading::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "videoplayer-playbtn.png",
+      "original_url": "https://www.oracle.com/asset/web/i/videoplayer-playbtn.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".bcvideo .vjs-big-play-button::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "videoplayer-chevron.png",
+      "original_url": "https://www.oracle.com/asset/web/i/videoplayer-chevron.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".bcvideo .video-js #bcc_link_container .bcc_cta",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "cmps-button-sprite.png",
+      "original_url": "https://www.oracle.com/asset/web/i/cmps-button-sprite.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".f16v1 #submitButton::after",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rc39-quote.svg",
+      "original_url": "https://www.oracle.com/asset/web/i/rc39-quote.svg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".rc39v2 .rc39quotes::before, .rc39v5 .rc39quotes::before, .rc39v4 .rc39quotes::before",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    },
+    {
+      "filename": "rh02-panel3-2x.jpg",
+      "original_url": "https://www.oracle.com/asset/web/i/rh02-panel3-2x.jpg",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".retina .rh02p3 .rh02w2",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:53"
+    }
+  ]
+}

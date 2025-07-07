@@ -1,0 +1,90 @@
+{
+  "website_url": "https://impala.apache.org",
+  "processed_at": "2025-07-07 04:33:00",
+  "images": [
+    {
+      "filename": "glyphicons-halflings.png",
+      "original_url": "https://impala.apache.org/img/glyphicons-halflings.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": "[class^=\"icon-\"], [class*=\" icon-\"]",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:10"
+    },
+    {
+      "filename": "impala-logo.png",
+      "original_url": "https://impala.apache.org/img/impala-logo.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 91,
+        "height": 170.5,
+        "position": {
+          "x": 914.5,
+          "y": 182
+        },
+        "parentTag": "div",
+        "parentClass": "jumbotron",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:10"
+    },
+    {
+      "filename": "glyphicons-halflings-white.png",
+      "original_url": "https://impala.apache.org/img/glyphicons-halflings-white.png",
+      "element_info": {
+        "tagName": "css_rule",
+        "className": ".icon-white, .nav-pills > .active > a > [class^=\"icon-\"], .nav-pills > .active > a > [class*=\" icon-\"], .nav-list > .active > a > [class^=\"icon-\"], .nav-list > .active > a > [class*=\" icon-\"], .navbar-inverse .nav > .active > a > [class^=\"icon-\"], .navbar-inverse .nav > .active > a > [class*=\" icon-\"], .dropdown-menu > li > a:hover > [class^=\"icon-\"], .dropdown-menu > li > a:focus > [class^=\"icon-\"], .dropdown-menu > li > a:hover > [class*=\" icon-\"], .dropdown-menu > li > a:focus > [class*=\" icon-\"], .dropdown-menu > .active > a > [class^=\"icon-\"], .dropdown-menu > .active > a > [class*=\" icon-\"], .dropdown-submenu:hover > a > [class^=\"icon-\"], .dropdown-submenu:focus > a > [class^=\"icon-\"], .dropdown-submenu:hover > a > [class*=\" icon-\"], .dropdown-submenu:focus > a > [class*=\" icon-\"]",
+        "id": "",
+        "width": 0,
+        "height": 0,
+        "position": {
+          "x": 0,
+          "y": 0
+        },
+        "parentTag": "",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "css_rule",
+      "download_time": "2025-07-07 04:33:10"
+    },
+    {
+      "filename": "current-event-234x60.png",
+      "original_url": "http://www.apache.org/events/current-event-234x60.png",
+      "element_info": {
+        "tagName": "img",
+        "className": "",
+        "id": "",
+        "alt": "",
+        "title": "",
+        "width": 234,
+        "height": 60,
+        "position": {
+          "x": 843,
+          "y": 1052.5
+        },
+        "parentTag": "a",
+        "parentClass": "",
+        "parentId": ""
+      },
+      "source_type": "img_tag",
+      "download_time": "2025-07-07 04:33:10"
+    }
+  ]
+}
